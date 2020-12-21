@@ -1,0 +1,5 @@
+1. README 
+2. Dictionary.h - untouched
+3. Dictionary.c - contains everything asked for, contains no extra helper functions
+4. DictionaryTest.c - contains tests that exercise 
+5. Makefile
